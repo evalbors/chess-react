@@ -8,17 +8,3 @@
     grid-template-rows: repeat(8, 75px);
     box-shadow: 8px 17px 35px -5px rgba(0,0,0,0.20);
 }
-
-#chessboard .square {
-    width: 75px;
-    height: 75px;
-}
-
-#chessboard .square__black {
-    background-color: #007aff;
-}
-
-#chessboard .square__white {
-    background-color: #eeeeee;
-
-}

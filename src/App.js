@@ -1,7 +1,8 @@
-import './assets/css/Chessboard.css';
-import './assets/css/App.css';
-import Chessboard from './components/Chessboard';
+import './css/Chessboard.css';
+import './css/Square.css';
+import './css/App.css';
 
+import Chessboard from './components/Chessboard';
 
 function App() {
 

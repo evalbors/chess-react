@@ -1,0 +1,15 @@
+.square {
+    display: grid;
+    place-content: center;
+    width: 75px;
+    height: 75px;
+}
+
+.square__black {
+    background-color: #007aff;
+}
+
+.square__white {
+    background-color: #eeeeee;
+
+}
